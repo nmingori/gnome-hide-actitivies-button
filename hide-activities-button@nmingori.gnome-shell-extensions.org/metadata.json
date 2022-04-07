@@ -3,6 +3,6 @@
   "name": "Hide Activities Button",
   "description": "Hide Activities Button on the top panel. For Gnome 40 or 3.6+",
   "version": 1.0,
-  "shell-version": ["41", "40", "3.38", "3.36", "3.34", "3.32", "3.30", "3.28", "3.26", "3.24", "3.22", "3.20", "3.18", "3.16", "3.14", "3.12", "3.10", "3.8", "3.6"],
+  "shell-version": ["42", "41", "40", "3.38", "3.36", "3.34", "3.32", "3.30", "3.28", "3.26", "3.24", "3.22", "3.20", "3.18", "3.16", "3.14", "3.12", "3.10", "3.8", "3.6"],
   "url": "https://github.com/nmingori/gnome-hide-actitivies-button"
 }
