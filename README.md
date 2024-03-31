@@ -1,2 +1,2 @@
 # Gnome Shell Extension - Hide Activities Button
-Hide Activities Button on the top panel. For Gnome 43 to 3.6
+Hide the Activities Button from the top panel (which now has a workspace indicator instead of the text "Activities" but which is still referred to by the codename "activities" internally). For GNOME 45+
