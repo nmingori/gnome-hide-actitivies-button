@@ -9,13 +9,15 @@
  *
  **/
 
-const Main = imports.ui.main;
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 const activitiesBtn = Main.panel.statusArea.activities;
 
-function enable() {
-    if (activitiesBtn) activitiesBtn.hide();
-}
+export default class HideActivitiesButton {
+    enable() {
+        if (activitiesBtn) activitiesBtn.hide();
+    }
 
-function disable() {
-    if (activitiesBtn) activitiesBtn.show();
+    disable() {
+        if (activitiesBtn) activitiesBtn.show();
+    }
 }
